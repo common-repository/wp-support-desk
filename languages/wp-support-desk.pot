@@ -1,0 +1,1444 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Support Desk\n"
+"POT-Creation-Date: 2017-01-03 17:17+0600\n"
+"PO-Revision-Date: 2017-01-03 17:17+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: addons/attachments/attachments.php:17 addons/attachments/attachments.php:29
+msgid "Upload attachments"
+msgstr ""
+
+#: addons/attachments/attachments.php:42
+msgid "Attachments"
+msgstr ""
+
+#: addons/attachments/attachments.php:44
+msgid "Choose File"
+msgstr ""
+
+#: addons/recaptcha/classes/class-wpsd-recaptcha-init.php:82
+msgid "reCAPTCHA"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:11
+#: addons/staff-rate/view/tab-staff-rate-settings.php:10
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:9
+#: admin/class.wpneo_wpsd_admin.php:38 admin/view/settings.php:23
+msgid "Settings"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:12
+msgid "Implementation"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:27
+msgid "reCaptcha General Settings"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:30
+#: addons/recaptcha/pages/tab-recaptcha.php:82
+#: addons/recaptcha/pages/tab-recaptcha.php:92
+#: addons/recaptcha/pages/tab-recaptcha.php:102
+msgid "Enable / Disable"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:34
+msgid "Enable Google reCaptcha to WP Support Desk"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:36
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:49
+msgid "Mail server address, something like imap.gmail.com"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:41
+msgid "Site key / Public Key"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:44
+msgid "reCaptcha site key / public key"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:45
+#, php-format
+msgid ""
+"Put your Google reCAPTCHA public key here. %s Visit this link %s to generate "
+"one."
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:50
+msgid "Secret Key"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:53
+msgid "reCaptcha secret key"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:54
+#, php-format
+msgid ""
+"Put your Google reCAPTCHA secret key here. %s Visit this link %s to generate "
+"one."
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:64
+#: addons/recaptcha/pages/tab-recaptcha.php:116
+#: addons/staff-rate/view/tab-staff-rate-settings.php:156
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:103
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:152
+#: admin/view/tabs/tab-settings.php:218
+msgid "Save"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:79
+msgid "Implementation Settings"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:86
+msgid "Enable Google reCaptcha to WP Support Desk Login Form"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:96
+msgid "Enable Google reCaptcha to WP Support Desk Registration Form"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:106
+msgid "Enable Google reCaptcha to in ticket creating form"
+msgstr ""
+
+#: addons/recaptcha/recaptcha-functions.php:48
+#: addons/staff-rate/staff-rate.php:150
+#: addons/wpsd-email-fetch/classes/wpsd_email_fetch_functions.php:45
+#: includes/wpneo_wpsd_controller.php:623
+msgid "Settings has been saved"
+msgstr ""
+
+#: addons/recaptcha/recaptcha-functions.php:120
+msgid "Error with reCAPTCHA, please check again"
+msgstr ""
+
+#: addons/staff-rate/staff-rate.php:53
+msgid "You have rate on this ticket to "
+msgstr ""
+
+#: addons/staff-rate/staff-rate.php:96 addons/staff-rate/staff-rate.php:109
+#: addons/staff-rate/view/emails/rating_placed.php:33
+msgid "A staff rating has been placed by "
+msgstr ""
+
+#: addons/staff-rate/staff-rate.php:117
+msgid "Rating placed success"
+msgstr ""
+
+#: addons/staff-rate/staff-rate.php:120
+msgid "You have already placed rating in this ticket"
+msgstr ""
+
+#: addons/staff-rate/staff-rate.php:159
+msgid "Staff Rating"
+msgstr ""
+
+#: addons/staff-rate/view/emails/rating_placed.php:34
+#: addons/staff-rate/view/latest-staff-ratings.php:22
+#: addons/staff-rate/view/latest-staff-ratings.php:56
+#: addons/staff-rate/view/tab-staff-rate-settings.php:56
+#: addons/staff-rate/view/tab-staff-rate-settings.php:91
+msgid "Rating"
+msgstr ""
+
+#: addons/staff-rate/view/latest-staff-ratings.php:1
+msgid "Top 10 Staff Ratings"
+msgstr ""
+
+#: addons/staff-rate/view/latest-staff-ratings.php:19
+#: addons/staff-rate/view/latest-staff-ratings.php:53
+#: addons/staff-rate/view/tab-staff-rate-settings.php:53
+#: addons/staff-rate/view/tab-staff-rate-settings.php:88
+msgid "Ticket"
+msgstr ""
+
+#: addons/staff-rate/view/latest-staff-ratings.php:20
+#: addons/staff-rate/view/latest-staff-ratings.php:54
+#: addons/staff-rate/view/tab-staff-rate-settings.php:54
+#: addons/staff-rate/view/tab-staff-rate-settings.php:89
+msgid "Rated by"
+msgstr ""
+
+#: addons/staff-rate/view/latest-staff-ratings.php:21
+#: addons/staff-rate/view/latest-staff-ratings.php:55
+#: addons/staff-rate/view/tab-staff-rate-settings.php:55
+#: addons/staff-rate/view/tab-staff-rate-settings.php:90
+msgid "Rated to"
+msgstr ""
+
+#: addons/staff-rate/view/latest-staff-ratings.php:23
+#: addons/staff-rate/view/latest-staff-ratings.php:57
+#: addons/staff-rate/view/tab-staff-rate-settings.php:57
+#: addons/staff-rate/view/tab-staff-rate-settings.php:92
+msgid "Time"
+msgstr ""
+
+#: addons/staff-rate/view/latest-staff-ratings.php:24
+#: addons/staff-rate/view/latest-staff-ratings.php:58
+#: addons/staff-rate/view/tab-staff-rate-settings.php:58
+#: addons/staff-rate/view/tab-staff-rate-settings.php:93
+#: admin/view/tabs/section-manage_departments.php:19
+#: admin/view/tabs/section-manage_departments.php:41
+#: admin/view/tabs/section-support_staff.php:16
+#: admin/view/tabs/section-support_staff.php:71
+#: admin/view/tabs/tab-custom_field.php:43
+#: admin/view/tabs/tab-custom_field.php:78
+#: admin/view/tickets/wpsd_tickets.php:111
+#: admin/view/tickets/wpsd_tickets.php:157
+msgid "Action"
+msgstr ""
+
+#: addons/staff-rate/view/tab-staff-rate-settings.php:9
+#: addons/staff-rate/view/tab-staff-rate-settings.php:28
+msgid "All Ratings"
+msgstr ""
+
+#: addons/staff-rate/view/tab-staff-rate-settings.php:118
+msgid "Send Email to admin after rate"
+msgstr ""
+
+#: addons/staff-rate/view/tab-staff-rate-settings.php:121
+#: addons/staff-rate/view/tab-staff-rate-settings.php:133
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:130
+#: admin/view/tabs/section-add_new_support_staff.php:66
+#: admin/view/tabs/section-edit_support_staff.php:69
+#: admin/view/tabs/tab-custom_field.php:188
+#: admin/view/tabs/tab-settings.php:80 admin/view/tabs/tab-settings.php:114
+#: admin/view/tabs/tab-settings.php:127 admin/view/tabs/tab-settings.php:178
+#: includes/view/wpsd-open-kb-article.php:23
+msgid "Yes"
+msgstr ""
+
+#: addons/staff-rate/view/tab-staff-rate-settings.php:124
+#: addons/staff-rate/view/tab-staff-rate-settings.php:136
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:133
+#: admin/view/tabs/section-add_new_support_staff.php:69
+#: admin/view/tabs/section-edit_support_staff.php:72
+#: admin/view/tabs/tab-custom_field.php:191
+#: admin/view/tabs/tab-settings.php:83 admin/view/tabs/tab-settings.php:117
+#: admin/view/tabs/tab-settings.php:130 admin/view/tabs/tab-settings.php:181
+#: includes/view/wpsd-open-kb-article.php:26
+msgid "No"
+msgstr ""
+
+#: addons/staff-rate/view/tab-staff-rate-settings.php:130
+msgid "Send Email to staff after rate"
+msgstr ""
+
+#: addons/staff-rate/view/tab-staff-rate-settings.php:143
+#: addons/staff-rate/view/tab-staff-rate-settings.php:146
+msgid "Admin email"
+msgstr ""
+
+#: addons/wpsd-email-fetch/classes/class.wpsd_email_fetch.php:64
+msgid "Email Fetch"
+msgstr ""
+
+#: addons/wpsd-email-fetch/classes/wpsd_email_fetch_functions.php:137
+msgid "WP Support Desk Cron Custom"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/ajax_load_test_email_fetch.php:54
+msgid "Connected to mailbox"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:10
+msgid "Cron Job"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:29
+msgid "WP Support Desk Email Fetch Settings"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:32
+msgid "Select Protocol"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:35
+msgid "IMAP"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:38
+msgid "POP3"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:40
+msgid "Protocol will be used for reading your mailbox email"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:45
+msgid "Mail server address "
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:54
+msgid "Connection security"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:57
+msgid "We always use SSL Security"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:62
+msgid "Port"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:66
+msgid "Default for IMAP = 993, POP3 = 995"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:72
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:76
+msgid "Login Email"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:81
+#: includes/view/wpsd-guest-home.php:14 includes/view/wpsd-login-form.php:15
+#: includes/view/wpsd-login-form.php:16
+#: includes/view/wpsd-user-login-form.php:10
+msgid "Password"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:85
+msgid "Login email password"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:106
+msgid "Test receive email"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:122
+msgid "Cron job run command: "
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:127
+msgid "Start Cron Job"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:135
+msgid ""
+"Cron job will automatically receive email, you can start this job or stop"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:140
+msgid "Interval (Min)"
+msgstr ""
+
+#: addons/wpsd-email-fetch/view/tab-email-fetch-settings.php:143
+msgid "Use interval as minute"
+msgstr ""
+
+#: admin/class.wpneo_wpsd_admin.php:35
+msgid "WP Support Desk"
+msgstr ""
+
+#: admin/class.wpneo_wpsd_admin.php:36
+#: includes/class.wpneo_wpsd_register_post_type.php:169
+msgid "Priorities"
+msgstr ""
+
+#: admin/class.wpneo_wpsd_admin.php:37 includes/view/wpsd-knowledgebase.php:5
+#: includes/view/wpsd-knowledgebase.php:11
+#: includes/view/wpsd-ticket-manager.php:64
+msgid "Knowledgebase"
+msgstr ""
+
+#: admin/class.wpneo_wpsd_admin.php:51
+msgid "Something went wrong, please try again later"
+msgstr ""
+
+#: admin/view/settings.php:8 admin/view/tabs/tab-overview.php:1
+msgid "Overview"
+msgstr ""
+
+#: admin/view/settings.php:13 admin/view/tabs/section-support_staff.php:13
+#: admin/view/tabs/section-support_staff.php:68
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:213
+#: includes/view/wpsd-create_new_ticket.php:130
+msgid "Departments"
+msgstr ""
+
+#: admin/view/settings.php:18
+msgid "Support Staff"
+msgstr ""
+
+#: admin/view/settings.php:28
+msgid "Custom Field"
+msgstr ""
+
+#: admin/view/tabs/section-add_new_department.php:13
+msgid "Department name"
+msgstr ""
+
+#: admin/view/tabs/section-add_new_department.php:19
+#: admin/view/tabs/section-manage_departments.php:18
+#: admin/view/tabs/section-manage_departments.php:40
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:187
+msgid "Description"
+msgstr ""
+
+#: admin/view/tabs/section-add_new_department.php:27
+msgid "Save department"
+msgstr ""
+
+#: admin/view/tabs/section-add_new_support_staff.php:14
+#: admin/view/tabs/section-edit_support_staff.php:22
+msgid "User"
+msgstr ""
+
+#: admin/view/tabs/section-add_new_support_staff.php:17
+msgid "Select user"
+msgstr ""
+
+#: admin/view/tabs/section-add_new_support_staff.php:28
+#: admin/view/tabs/section-edit_support_staff.php:28
+#: admin/view/tickets/wpsd_ticket_view.php:102
+#: includes/class.wpneo_wpsd_register_post_type.php:226
+#: includes/class.wpneo_wpsd_register_post_type.php:259
+#: includes/class.wpneo_wpsd_register_post_type.php:311
+msgid "Department"
+msgstr ""
+
+#: admin/view/tabs/section-add_new_support_staff.php:31
+#: admin/view/tabs/section-edit_support_staff.php:31
+#: includes/class.wpneo_wpsd_register_post_type.php:229
+#: includes/class.wpneo_wpsd_register_post_type.php:263
+msgid "Select department"
+msgstr ""
+
+#: admin/view/tabs/section-add_new_support_staff.php:45
+#: admin/view/tabs/section-edit_support_staff.php:47
+msgid "Support user type"
+msgstr ""
+
+#: admin/view/tabs/section-add_new_support_staff.php:63
+#: admin/view/tabs/section-edit_support_staff.php:66
+#: admin/view/tabs/section-support_staff.php:15
+#: admin/view/tabs/section-support_staff.php:70
+msgid "Delete tickets"
+msgstr ""
+
+#: admin/view/tabs/section-add_new_support_staff.php:95
+msgid "Save Staff"
+msgstr ""
+
+#: admin/view/tabs/section-edit_support_staff.php:101
+msgid "Update Staff"
+msgstr ""
+
+#: admin/view/tabs/section-manage_departments.php:17
+#: admin/view/tabs/section-manage_departments.php:39
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:97
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:99
+msgid "Name"
+msgstr ""
+
+#: admin/view/tabs/section-support_staff.php:12
+#: admin/view/tabs/section-support_staff.php:67
+#: includes/view/wpsd-guest-home.php:13
+#: includes/view/wpsd-user-login-form.php:9
+#: includes/view/wpsd-user-registration-form.php:10
+msgid "User Name"
+msgstr ""
+
+#: admin/view/tabs/section-support_staff.php:14
+#: admin/view/tabs/section-support_staff.php:69
+msgid "Role"
+msgstr ""
+
+#: admin/view/tabs/section-support_staff.php:59
+msgid "Edit"
+msgstr ""
+
+#: admin/view/tabs/section-support_staff.php:79
+msgid "No staff were found"
+msgstr ""
+
+#: admin/view/tabs/tab-custom_field.php:10
+msgid "All fields"
+msgstr ""
+
+#: admin/view/tabs/tab-custom_field.php:11
+msgid "Add field"
+msgstr ""
+
+#: admin/view/tabs/tab-custom_field.php:35
+#: admin/view/tabs/tab-custom_field.php:70
+msgid "Title"
+msgstr ""
+
+#: admin/view/tabs/tab-custom_field.php:36
+#: admin/view/tabs/tab-custom_field.php:71
+#: admin/view/tabs/tab-custom_field.php:127
+#: admin/view/tabs/tab-custom_field.php:129
+msgid "Field Name"
+msgstr ""
+
+#: admin/view/tabs/tab-custom_field.php:37
+#: admin/view/tabs/tab-custom_field.php:72
+msgid "Type"
+msgstr ""
+
+#: admin/view/tabs/tab-custom_field.php:38
+#: admin/view/tabs/tab-custom_field.php:73
+#: admin/view/tabs/tab-custom_field.php:146
+msgid "Value"
+msgstr ""
+
+#: admin/view/tabs/tab-custom_field.php:39
+#: admin/view/tabs/tab-custom_field.php:74
+#: admin/view/tabs/tab-custom_field.php:167
+#: admin/view/tabs/tab-custom_field.php:169
+msgid "Size"
+msgstr ""
+
+#: admin/view/tabs/tab-custom_field.php:40
+#: admin/view/tabs/tab-custom_field.php:75
+#: admin/view/tabs/tab-custom_field.php:175
+#: admin/view/tabs/tab-custom_field.php:177
+msgid "Max Length"
+msgstr ""
+
+#: admin/view/tabs/tab-custom_field.php:41
+#: admin/view/tabs/tab-custom_field.php:76
+#: admin/view/tabs/tab-custom_field.php:139
+msgid "Help Text"
+msgstr ""
+
+#: admin/view/tabs/tab-custom_field.php:42
+#: admin/view/tabs/tab-custom_field.php:77
+#: admin/view/tabs/tab-custom_field.php:159
+#: admin/view/tabs/tab-custom_field.php:161
+msgid "Default Value"
+msgstr ""
+
+#: admin/view/tabs/tab-custom_field.php:106
+msgid "Field Type"
+msgstr ""
+
+#: admin/view/tabs/tab-custom_field.php:120
+#: admin/view/tabs/tab-custom_field.php:122
+msgid "Field Title"
+msgstr ""
+
+#: admin/view/tabs/tab-custom_field.php:131
+msgid "Field name without any space and special character"
+msgstr ""
+
+#: admin/view/tabs/tab-custom_field.php:150
+msgid "Option will be available from this field"
+msgstr ""
+
+#: admin/view/tabs/tab-custom_field.php:151
+msgid ""
+"If you using select/radio button/checkbox, then enter each option value by "
+"separating comma"
+msgstr ""
+
+#: admin/view/tabs/tab-custom_field.php:152
+msgid "Example: Software,Hardwar,Computer"
+msgstr ""
+
+#: admin/view/tabs/tab-custom_field.php:184
+msgid "Required"
+msgstr ""
+
+#: admin/view/tabs/tab-custom_field.php:200
+msgid "Save Field"
+msgstr ""
+
+#: admin/view/tabs/tab-departments.php:6
+#: admin/view/tabs/tab-support_staff.php:5
+msgid "Manage"
+msgstr ""
+
+#: admin/view/tabs/tab-departments.php:11
+#: admin/view/tabs/tab-support_staff.php:10
+msgid "Add new"
+msgstr ""
+
+#: admin/view/tabs/tab-overview.php:11
+msgid "Pending Tickets"
+msgstr ""
+
+#: admin/view/tabs/tab-overview.php:23
+msgid "In-Discussion Tickets"
+msgstr ""
+
+#: admin/view/tabs/tab-overview.php:35
+msgid "Closed Tickets"
+msgstr ""
+
+#: admin/view/tabs/tab-overview.php:49
+msgid "Total Users"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:14
+msgid "Email Templates"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:31
+msgid "Available variable"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:35
+msgid "Creating ticket"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:37
+msgid "Ticket Owner"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:38
+msgid "Customer Email"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:39
+msgid "Ticket ID"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:40
+msgid "Ticket Subject"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:41 admin/view/tabs/tab-settings.php:52
+#: admin/view/tabs/tab-settings.php:60
+msgid "Ticket Description"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:42
+msgid "Ticket Priority"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:43 admin/view/tabs/tab-settings.php:53
+msgid "Ticket Created"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:48
+msgid "Replied ticket"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:50 admin/view/tabs/tab-settings.php:58
+msgid "Replied by"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:51 admin/view/tabs/tab-settings.php:59
+msgid "Previous replied by"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:56 admin/view/tabs/tab-settings.php:173
+msgid "Assigned Ticket"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:66
+msgid "You can also use all of your variable from creating ticket part"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:75
+msgid "Creating Ticket"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:77 admin/view/tabs/tab-settings.php:175
+msgid "Activate email"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:85
+msgid "Activate or deactivate email send during creating ticket"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:90 admin/view/tabs/tab-settings.php:188
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:89
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:91
+#: admin/view/tickets/wpsd_tickets.php:107
+#: admin/view/tickets/wpsd_tickets.php:153
+#: includes/view/wpsd-create_new_ticket.php:28
+#: includes/view/wpsd-create_new_ticket.php:31
+#: includes/view/wpsd-indivudial-department.php:68
+msgid "Subject"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:94
+msgid "This will be appear in user email subject"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:98 admin/view/tabs/tab-settings.php:195
+msgid "Email body"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:102
+msgid "This will be email body when a ticket has been created"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:109
+msgid "Replying Ticket"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:111
+msgid "Activate email, for ticket owner"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:119 admin/view/tabs/tab-settings.php:132
+msgid ""
+"Activate or deactivate if you wish to send email notification to ticket "
+"creator, or not"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:124
+msgid "Activate email, for ticket follower"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:137
+msgid "Subject for owner"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:140
+msgid "This subject will be at ticket creator email"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:144
+msgid "Subject for ticket follower"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:147
+msgid ""
+"This subject will be at ticket follower email who is already replied, if any"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:152
+msgid "Email body, for ticket owner"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:155
+msgid "This will be email body when a ticket has been replied"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:160
+msgid "Email body, for ticket follower"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:163
+msgid ""
+"Ticket follower (who already replied this ticket before) will receive this "
+"body"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:183
+msgid "Activate or deactivate email send during assigned ticket"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:191
+msgid "This will be appear in assigned ticket email subject"
+msgstr ""
+
+#: admin/view/tabs/tab-settings.php:199
+msgid "This will be email body when a ticket has been assigned"
+msgstr ""
+
+#: admin/view/ticket/ticket-assign-metabox.php:16
+#: admin/view/tickets/ticket-assign-metabox.php:14
+msgid "select user"
+msgstr ""
+
+#: admin/view/ticket/ticket-assign-metabox.php:31
+#: admin/view/tickets/ticket-assign-metabox.php:29
+msgid "You can assign multiple user at a time"
+msgstr ""
+
+#: admin/view/ticket/ticket-assign-metabox.php:35
+#: admin/view/tickets/ticket-assign-metabox.php:33
+msgid "Assigned users"
+msgstr ""
+
+#: admin/view/ticket/ticket-details.php:24
+#: admin/view/tickets/wpsd_ticket_view.php:81
+msgid "Delete"
+msgstr ""
+
+#: admin/view/ticket/ticket-details.php:32
+msgid "Owner"
+msgstr ""
+
+#: admin/view/ticket/ticket-details.php:34
+#: admin/view/tickets/wpsd_tickets.php:109
+#: admin/view/tickets/wpsd_tickets.php:155
+#: includes/view/wpsd-ticket_view.php:142
+msgid "Status"
+msgstr ""
+
+#: admin/view/ticket/ticket-details.php:52
+#: admin/view/tickets/wpsd_ticket_view.php:116
+msgid "Created At"
+msgstr ""
+
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:28
+msgid "Create New Ticket"
+msgstr ""
+
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:33
+#: admin/view/tickets/wpsd_ticket_view.php:36
+#: admin/view/tickets/wpsd_tickets.php:85
+msgid "Search your tickets here."
+msgstr ""
+
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:44
+#: admin/view/tickets/wpsd_ticket_view.php:45
+#: admin/view/tickets/wpsd_tickets.php:96
+msgid "WP Support Desk Home"
+msgstr ""
+
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:47
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:60
+#: includes/view/wpsd-create_new_ticket.php:21
+#: includes/view/wpsd-indivudial-department.php:32
+#: includes/view/wpsd-ticket-manager-header.php:41
+msgid "Create new ticket"
+msgstr ""
+
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:65
+msgid "On behalf of"
+msgstr ""
+
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:72
+msgid "Select User"
+msgstr ""
+
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:104
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:106
+#: includes/view/wpsd-user-registration-form.php:11
+msgid "Email"
+msgstr ""
+
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:196
+#: includes/view/wpsd-create_new_ticket.php:116
+#: includes/view/wpsd-indivudial-department.php:90
+msgid "Priority"
+msgstr ""
+
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:199
+#: includes/view/wpsd-create_new_ticket.php:118
+msgid "Select Priority"
+msgstr ""
+
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:217
+#: includes/view/wpsd-create_new_ticket.php:132
+msgid "Select Department"
+msgstr ""
+
+#: admin/view/tickets/wpsd_create_new_ticket_admin.php:240
+#: includes/view/wpsd-create_new_ticket.php:148
+msgid "Submit Ticket"
+msgstr ""
+
+#: admin/view/tickets/wpsd_ticket_view.php:27
+#: admin/view/tickets/wpsd_ticket_view.php:47
+#: admin/view/tickets/wpsd_tickets.php:76
+#: includes/class.wpneo_wpsd_register_post_type.php:79
+msgid "View Ticket"
+msgstr ""
+
+#: admin/view/tickets/wpsd_ticket_view.php:30
+#: admin/view/tickets/wpsd_tickets.php:79
+msgid "Add new ticket"
+msgstr ""
+
+#: admin/view/tickets/wpsd_ticket_view.php:46
+#: admin/view/tickets/wpsd_tickets.php:99
+msgid "Support Tickets"
+msgstr ""
+
+#: admin/view/tickets/wpsd_ticket_view.php:67
+msgid "Re Open"
+msgstr ""
+
+#: admin/view/tickets/wpsd_ticket_view.php:74
+#: includes/view/wpsd-ticket_view.php:72
+msgid "Close Ticket"
+msgstr ""
+
+#: admin/view/tickets/wpsd_ticket_view.php:88
+#: admin/view/tickets/wpsd_tickets.php:108
+#: admin/view/tickets/wpsd_tickets.php:154
+msgid "Posted by"
+msgstr ""
+
+#: admin/view/tickets/wpsd_ticket_view.php:223
+#: includes/view/wpsd-ticket_view.php:156
+msgid "Post reply"
+msgstr ""
+
+#: admin/view/tickets/wpsd_tickets.php:110
+#: admin/view/tickets/wpsd_tickets.php:156
+msgid "Date"
+msgstr ""
+
+#: admin/view/tickets/wpsd_tickets.php:129
+#: includes/class.wpneo_wpsd_register_post_type.php:358
+msgid "Assigned by: "
+msgstr ""
+
+#: admin/view/tickets/wpsd_tickets.php:137
+#: includes/view/wpsd-indivudial-department.php:69
+msgid "Created at"
+msgstr ""
+
+#: admin/view/tickets/wpsd_tickets.php:139
+msgid "Modified at"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:71
+msgctxt "post type general name"
+msgid "Tickets"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:72
+msgctxt "post type singular name"
+msgid "Ticket"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:73
+msgctxt "admin menu"
+msgid "Tickets"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:74
+msgctxt "add new on admin bar"
+msgid "Ticket"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:75
+msgctxt "Ticket"
+msgid "Add New"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:76
+msgid "Add New Ticket"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:77
+#: includes/view/wpsd-ticket-manager.php:43
+msgid "New Ticket"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:78
+msgid "Edit Ticket"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:80
+msgid "All Tickets"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:81
+msgid "Search Tickets"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:82
+msgid "Parent Tickets:"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:83
+msgid "No Tickets found."
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:84
+msgid "No Tickets found in Trash."
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:99
+msgctxt "post type general name"
+msgid "Knowledgebase"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:100
+msgctxt "post type singular name"
+msgid "Knowledgebase"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:101
+msgctxt "admin menu"
+msgid "Knowledgebase"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:102
+msgctxt "add new on admin bar"
+msgid "Knowledgebase"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:103
+msgctxt "Knowledgebase"
+msgid "Add New"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:104
+msgid "Add New Knowledgebase"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:105
+msgid "New Knowledgebase"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:106
+msgid "Edit Knowledgebase"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:107
+msgid "View Knowledgebase"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:108
+msgid "All Knowledgebase"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:109
+msgid "Search Knowledgebase"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:110
+msgid "Parent Knowledgebase:"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:111
+msgid "No Knowledgebase found."
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:112
+msgid "No Knowledgebase found in Trash."
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:130
+msgctxt "Categories"
+msgid "Categories"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:131
+msgctxt "Category"
+msgid "Category"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:133
+msgid "Search Categorys"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:134
+msgid "All Categorys"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:135
+msgid "Parent Category"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:136
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:137
+msgid "Edit Category"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:138
+msgid "Update Category"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:139
+msgid "Add New Category"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:140
+msgid "New Category Name"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:141
+msgid "Categories"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:158
+msgctxt "Priorities"
+msgid "Priorities"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:159
+msgctxt "Priority"
+msgid "Priority"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:161
+msgid "Search Prioritys"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:162
+msgid "All Prioritys"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:163
+msgid "Parent Priority"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:164
+msgid "Parent Priority:"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:165
+msgid "Edit Priority"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:166
+msgid "Update Priority"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:167
+msgid "Add New Priority"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:168
+msgid "New Priority Name"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:189
+msgctxt "KB Categories"
+msgid "KB Categories"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:190
+msgctxt "KB Category"
+msgid "KB Category"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:192
+msgid "Search KB Categories"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:193
+msgid "All KB Categories"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:194
+msgid "Parent KB Category"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:195
+msgid "Parent KB Category:"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:196
+msgid "Edit KB Category"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:197
+msgid "Update KB Category"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:198
+msgid "Add New KB Category"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:199
+msgid "New KB Category Name"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:200
+msgid "KB Categories"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:239
+#: includes/class.wpneo_wpsd_register_post_type.php:275
+msgid "Category will visible under this department"
+msgstr ""
+
+#: includes/class.wpneo_wpsd_register_post_type.php:245
+#: includes/class.wpneo_wpsd_register_post_type.php:281
+msgid "Color"
+msgstr ""
+
+#: includes/view/wpsd-ajax-home.php:2
+msgid "All of your tickets"
+msgstr ""
+
+#: includes/view/wpsd-ajax-home.php:55
+#: includes/view/wpsd-tickets-completed.php:62
+#: includes/view/wpsd-tickets-in-discussion.php:62
+#: includes/view/wpsd-tickets-waiting-for-reply.php:63
+msgid "Posted By"
+msgstr ""
+
+#: includes/view/wpsd-ajax-home.php:67 includes/view/wpsd-ticket_view.php:137
+#: includes/view/wpsd-tickets-completed.php:75
+#: includes/view/wpsd-tickets-in-discussion.php:75
+#: includes/view/wpsd-tickets-waiting-for-reply.php:76
+msgid "ago"
+msgstr ""
+
+#: includes/view/wpsd-ajax-home.php:99
+#: includes/view/wpsd-tickets-completed.php:111
+#: includes/view/wpsd-tickets-in-discussion.php:108
+#: includes/view/wpsd-tickets-waiting-for-reply.php:109
+msgid "There is no ticket associate with your account"
+msgstr ""
+
+#: includes/view/wpsd-department-view.php:27
+msgid "Department Manager"
+msgstr ""
+
+#: includes/view/wpsd-guest-home.php:8
+#: includes/view/wpsd-user-login-form.php:4
+msgid "Sign In to get greater access"
+msgstr ""
+
+#: includes/view/wpsd-guest-home.php:19
+#: includes/view/wpsd-user-login-form.php:15
+msgid "Remember Me"
+msgstr ""
+
+#: includes/view/wpsd-guest-home.php:25
+#: includes/view/wpsd-user-login-form.php:21
+msgid "Create an account?"
+msgstr ""
+
+#: includes/view/wpsd-indivudial-department.php:80
+msgid "Category"
+msgstr ""
+
+#: includes/view/wpsd-indivudial-department.php:120
+msgid "There is no ticket associate with "
+msgstr ""
+
+#: includes/view/wpsd-knowledgebase.php:8
+msgid "Home"
+msgstr ""
+
+#: includes/view/wpsd-knowledgebase.php:18
+msgid "Have a question? Start your search here."
+msgstr ""
+
+#: includes/view/wpsd-login-form.php:4
+msgid "Sign In to get greater access and functionalities"
+msgstr ""
+
+#: includes/view/wpsd-login-form.php:11 includes/view/wpsd-login-form.php:12
+msgid "Username or Email"
+msgstr ""
+
+#: includes/view/wpsd-login-form.php:20
+msgid "Remember me"
+msgstr ""
+
+#: includes/view/wpsd-login-form.php:23
+msgid "Sign in"
+msgstr ""
+
+#: includes/view/wpsd-open-kb-article.php:15
+msgid "Was this article helpful?"
+msgstr ""
+
+#: includes/view/wpsd-open-kb-article.php:31
+msgid "Your answer was : "
+msgstr ""
+
+#: includes/view/wpsd-open-kb-article.php:37
+#, php-format
+msgid "Yes / %d, No / %d"
+msgstr ""
+
+#: includes/view/wpsd-ticket-manager.php:24
+msgid "Logout"
+msgstr ""
+
+#: includes/view/wpsd-ticket-manager.php:30
+msgid "Have a question?"
+msgstr ""
+
+#: includes/view/wpsd-ticket-manager.php:46
+msgid "Tickets"
+msgstr ""
+
+#: includes/view/wpsd-ticket-manager.php:49
+msgid "All tickets"
+msgstr ""
+
+#: includes/view/wpsd-ticket-manager.php:53
+#: includes/view/wpsd-tickets-waiting-for-reply.php:2
+#: includes/wpneo_wpsd_functions.php:84
+msgid "Waiting for reply"
+msgstr ""
+
+#: includes/view/wpsd-ticket-manager.php:56
+msgid "In Discussion"
+msgstr ""
+
+#: includes/view/wpsd-ticket-manager.php:77
+msgid " Priority Labels"
+msgstr ""
+
+#: includes/view/wpsd-ticket-manager.php:90
+msgid "Powered by"
+msgstr ""
+
+#: includes/view/wpsd-ticket-manager.php:101
+msgid "Loading...."
+msgstr ""
+
+#: includes/view/wpsd-ticket_view.php:65
+msgid "Re-open"
+msgstr ""
+
+#: includes/view/wpsd-ticket_view.php:110
+msgid "Attachment"
+msgstr ""
+
+#: includes/view/wpsd-ticket_view.php:152
+msgid "Well , It doesn’t seem highty"
+msgstr ""
+
+#: includes/view/wpsd-tickets-completed.php:2
+msgid "Completed tickets"
+msgstr ""
+
+#: includes/view/wpsd-tickets-in-discussion.php:2
+msgid "In discussion"
+msgstr ""
+
+#: includes/view/wpsd-user-registration-form.php:5
+msgid "Create an account for new user"
+msgstr ""
+
+#: includes/view/wpsd-user-registration-form.php:16
+msgid "Back to login"
+msgstr ""
+
+#: includes/wpneo_wpsd_ajax.php:134
+msgid "Ticket has been found"
+msgstr ""
+
+#: includes/wpneo_wpsd_ajax.php:136
+msgid "Sorry, not found any ticket"
+msgstr ""
+
+#: includes/wpneo_wpsd_ajax.php:161
+msgid "Logged In Successfully, you are now redirecting"
+msgstr ""
+
+#: includes/wpneo_wpsd_ajax.php:191
+msgid ""
+"<p class=\"wpsd-alert-warning\">Registration complete. Please check your "
+"email.</p>"
+msgstr ""
+
+#: includes/wpneo_wpsd_ajax.php:256
+msgid "You have successfully voted"
+msgstr ""
+
+#: includes/wpneo_wpsd_ajax.php:258
+msgid "You already voted on this article"
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:43
+msgid "No user has been selected"
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:106
+msgid "No user has been to be update"
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:121
+msgid "User has been updated"
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:196
+msgid "Ticket has been created"
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:198
+msgid "Something went wrong at this moment, please try again later"
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:248
+msgid "Assign Ticket to Another"
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:349
+msgid "Ticket has been "
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:351
+msgid "You are not authorised to do this action"
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:401
+msgid "Ticket has been assigned to the selected users"
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:403
+msgid "There are no user to do this action"
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:419
+msgid "User has been removed from assigned list"
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:422
+msgid "Something went wrong, please try again"
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:436
+msgid "Rating has been removed."
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:439
+#: includes/wpneo_wpsd_controller.php:455
+#: includes/wpneo_wpsd_controller.php:472
+#: includes/wpneo_wpsd_controller.php:490
+#: includes/wpneo_wpsd_controller.php:508
+msgid "Something went wrong, please try again."
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:452
+msgid "Ticket has been removed."
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:469
+msgid "Department has been removed."
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:487
+msgid "Support staff has been removed."
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:505
+msgid "Support custom field has been removed."
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:662
+msgid "Custom field has been added"
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:673
+msgid "Helpful Status"
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:683
+msgid "Like "
+msgstr ""
+
+#: includes/wpneo_wpsd_controller.php:684
+msgid "Dislike "
+msgstr ""
+
+#: includes/wpneo_wpsd_functions.php:161
+msgid "Done!"
+msgstr ""
